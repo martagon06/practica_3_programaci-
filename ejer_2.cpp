@@ -11,6 +11,7 @@ int main ()
         cin >> r;
     } while (r < 1);;
     cout << "Introduzca una serie de números (): ";
+    cin >> n;
     while (n != 0)
     {
         cin >> n;

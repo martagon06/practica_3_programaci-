@@ -34,7 +34,7 @@ int main()
             if (operacion%provincia == control)
                 salir_bucle = true;
             else {
-                cout << "El dígito de contrlo no es correct, ";
+                cout << "El dígito de contrlo no es correcto, ";
                 codigo_f = false;
             } 
         }

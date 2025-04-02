@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a, b, c, count;
-    count = 0;
+    count = 1;
     cout << "Introduze tres números: ";
     cin >> a >> b >> c;
     while (a >= b+c || b >= a+c || c >= a+b) {
